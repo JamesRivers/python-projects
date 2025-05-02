@@ -1,0 +1,9 @@
+---FILEPATH pyhton-ride-restriction/requirements.txt
+---FIND
+```
+```
+---REPLACE
+```
+pytest
+```
+---COMPLETE
